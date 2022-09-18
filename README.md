@@ -1,0 +1,1 @@
+# HTR_WordSegmented
