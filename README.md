@@ -10,12 +10,7 @@ This is a Handwritten Text Extraction system based on deep learning developed us
 
 * Python ver 2.7 +
 * Packages Required :
-editdistance
-matplotlib
-numpy
-opencv-python
-path
-tensorflow
+editdistance, matplotlib, numpy, opencv-python, path, tensorflow
 
 	
 
@@ -25,9 +20,9 @@ tensorflow
 * Put the image of the sentence to predict within in HTR_WordSegmented\in
 * Go to the src directory
 * Run the code code:
-'''
+```
 python main.py
-'''
+```
 * The word segmented image will be shown in HTR_WordSegmented\out
 * The console will display the recognized text with accuracy rates.
 
